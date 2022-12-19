@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-merge/static/css/main.073c9b0a.css",
+    "main.js": "/react-merge/static/js/main.1a8a5e04.js",
+    "static/js/787.6c448d01.chunk.js": "/react-merge/static/js/787.6c448d01.chunk.js",
+    "index.html": "/react-merge/index.html",
+    "main.073c9b0a.css.map": "/react-merge/static/css/main.073c9b0a.css.map",
+    "main.1a8a5e04.js.map": "/react-merge/static/js/main.1a8a5e04.js.map",
+    "787.6c448d01.chunk.js.map": "/react-merge/static/js/787.6c448d01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1a8a5e04.js"
+  ]
+}
