@@ -19,7 +19,7 @@ function App() {
       
       
              <Route exact path="/" component={Home}></Route>
-             <Route path="/about" component={About} ></Route>
+             <Route path="sorting-data-react/about" component={About} ></Route>
              <Route path="/form" component={Form}></Route>
              <Route path="/Pagination" component={Pagination}></Route>
         
