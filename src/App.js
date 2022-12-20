@@ -13,7 +13,7 @@ function App() {
          
      <Router>
       <Link to="/">Home </Link>
-      <Link to="sorting-data-react/about">About </Link>
+      <Link to="/about">About </Link>
       <Link to="/form">Form </Link>
       
       
